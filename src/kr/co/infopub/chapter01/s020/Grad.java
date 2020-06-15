@@ -1,4 +1,4 @@
-package kr.co.infopub.chapter.s020;
+package kr.co.infopub.chapter01.s020;
 
 // 정수 연산하기
 // 정수끼리 연산하면 결과도 정수이다.

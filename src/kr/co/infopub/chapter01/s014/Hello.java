@@ -1,4 +1,4 @@
-package kr.co.infopub.chapter.s014;
+package kr.co.infopub.chapter01.s014;
 
 // 자바 프로그래밍 실행하기
 // System.out.println()을 이용한다.

@@ -1,4 +1,4 @@
-package kr.co.infopub.chapter.s015;
+package kr.co.infopub.chapter01.s015;
 
 // 기본 타입 선언하기
 // 기본 타입은 데이터 자체로 정수, 실수, 문자, 불린의 4종류가 있다.
