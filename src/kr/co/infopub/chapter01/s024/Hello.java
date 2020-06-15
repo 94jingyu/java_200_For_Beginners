@@ -1,4 +1,4 @@
-package kr.co.infopub.chapter.s024;
+package kr.co.infopub.chapter01.s024;
 
 // 메소드 선언하고 호출하기
 // 메소드는 호출될 때 실행된다.

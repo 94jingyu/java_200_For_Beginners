@@ -1,4 +1,4 @@
-package kr.co.infopub.chapter.s023;
+package kr.co.infopub.chapter01.s023;
 
 // 문자와 문자열의 관계 살펴보기
 // 문자열의 위치를 찾는 메서드를 사용한다.

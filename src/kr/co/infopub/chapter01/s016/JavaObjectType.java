@@ -1,4 +1,4 @@
-package kr.co.infopub.chapter.s016;
+package kr.co.infopub.chapter01.s016;
 
 import java.util.Calendar;
 import java.util.Date;

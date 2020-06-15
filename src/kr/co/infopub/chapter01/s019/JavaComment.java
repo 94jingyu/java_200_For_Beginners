@@ -1,4 +1,4 @@
-package kr.co.infopub.chapter.s019;
+package kr.co.infopub.chapter01.s019;
 
 // 코멘트(주석) 달기
 // 한 줄, 여러 줄 코멘트가 있다.

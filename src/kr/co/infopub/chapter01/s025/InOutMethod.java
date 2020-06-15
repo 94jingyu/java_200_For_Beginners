@@ -1,4 +1,4 @@
-package kr.co.infopub.chapter.s025;
+package kr.co.infopub.chapter01.s025;
 
 import java.util.Scanner;
 

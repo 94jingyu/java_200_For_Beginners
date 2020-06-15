@@ -1,4 +1,4 @@
-package kr.co.infopub.chapter.s021;
+package kr.co.infopub.chapter01.s021;
 
 // 정수 타입의 배열 사용하기
 // 배열은 같은 타입의 나열로, []를 사용한다.

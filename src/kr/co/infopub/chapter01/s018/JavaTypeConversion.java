@@ -1,4 +1,4 @@
-package kr.co.infopub.chapter.s018;
+package kr.co.infopub.chapter01.s018;
 
 // 문자열을 실수로 변환하기
 // 문자열을 실수나 정수로 변활할 때는 랩퍼 클래스를 사용한다.

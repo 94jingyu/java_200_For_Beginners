@@ -1,4 +1,4 @@
-package kr.co.infopub.chapter.s022;
+package kr.co.infopub.chapter01.s022;
 
 // 실수 타입의 변수 사용하기
 // 연산은 왼쪽에서 오른쪽으로 실행되며, *, /, %를 -, +보다 먼저 연산한다.

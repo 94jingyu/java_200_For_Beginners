@@ -1,4 +1,4 @@
-package kr.co.infopub.chapter.s017;
+package kr.co.infopub.chapter01.s017;
 
 // 사용자 정의 참조 타입 사용하기
 // 참조타입은 "public class 클래스 이름{}" 형식으로 표시한다.
