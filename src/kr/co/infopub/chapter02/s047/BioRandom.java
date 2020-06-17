@@ -15,5 +15,6 @@ public class BioRandom {
 			c = (int)(range * Math.random() + start);
 		}
 		System.out.printf("%d\t%d\t%d", a, b, c);
+		
 	}
 }
